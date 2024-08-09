@@ -13,6 +13,7 @@
 	<Item Name="SubVIs" Type="Folder">
 		<Item Name="NIPKG to Package URL.vi" Type="VI" URL="../NIPKG to Package URL.vi"/>
 	</Item>
+	<Item Name="Load NIPKG List from JSON File.vi" Type="VI" URL="../Load NIPKG List from JSON File.vi"/>
 	<Item Name="NIPKG List to SBOM Components.vi" Type="VI" URL="../NIPKG List to SBOM Components.vi"/>
 	<Item Name="NIPKG to SBOM Component.vi" Type="VI" URL="../NIPKG to SBOM Component.vi"/>
 </Library>
